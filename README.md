@@ -225,3 +225,8 @@ Explanation of some key values returned by REST API.
   - 40 - loading the video, appears after video change
   - 49 - first buffering of the video, appears in the beginning after code 40
   - <span style="color: #ffc107"> e - video has ended (certain) </span>
+
+
+# Acknowledgments
+
+The software development leading to this repository has received funding from the Norwegian Financial Mechanism 2014-2021 under project 2019/34/H/ST6/00599.
